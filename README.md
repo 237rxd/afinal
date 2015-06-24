@@ -1,4 +1,7 @@
 #afinal交流平台
+* afinal是个android上非常好的orm框架，使用起来特别方便，针对其中的一些细节地方，我们进行了定制及微调
+
+#afinal交流平台
 * QQ群：192341294（群1，2000未满）    246710918（群2，1000未满）
 ##作者个人微信
 ![mahua](http://7xi3g2.com1.z0.glb.clouddn.com/grwx.png?imageView2/1/w/250/h/250/q/87)
